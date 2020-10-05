@@ -1,1 +1,1 @@
-# sum-of-a-series
+series_sum is a simple program which will print the sum of the series from the first number of the dedicated series to N in the GUI way.
